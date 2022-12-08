@@ -1,5 +1,10 @@
 'use strict';
-
+/*
+  This code has been writen by Hector OG  
+  <hector_oliva16k@hotmail.com>
+  <www.facebook.com/Ci5ko7u7>
+  Powered by JavaScript Course by Jonas Schmedtmann
+*/
 // prettier-ignore
 const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
